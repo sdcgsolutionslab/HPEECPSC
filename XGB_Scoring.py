@@ -7,7 +7,7 @@ import json
 import sys
 from sklearn.metrics import accuracy_score
 
-userID = "student{{ STDID }}"
+userID = "student900"
 
 # Function for obtaining NFS path
 
